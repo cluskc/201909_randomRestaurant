@@ -1,6 +1,6 @@
 #continueButton {
-	font-size: 30px;
-	line-height: 50px;
+	font-size: 20px;
+	line-height: 40px;
 	border-radius: 20px;
 	background-color: black;
 	color: white;
@@ -11,8 +11,8 @@
 }
 
 #backButton {
-	font-size: 30px;
-	line-height: 50px;
+	font-size: 20px;
+	line-height: 40px;
 	border-radius: 20px;
 	background-color: black;
 	color: white;
